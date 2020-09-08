@@ -1,0 +1,23 @@
+{
+  "name": "gitflowproject",
+  "version": "0.0.1",
+  "description": "Just an example of Git Flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathias54/gitflowproject.git"
+  },
+  "keywords": [
+    "git",
+    "flow"
+  ],
+  "author": "Mathias Gheno Azzolini and Nadine Zingano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mathias54/gitflowproject/issues"
+  },
+  "homepage": "https://github.com/Mathias54/gitflowproject#readme"
+}
